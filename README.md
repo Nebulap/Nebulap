@@ -2,7 +2,7 @@
 > To become a full-stack developer.
 
 #### Most Using Tool：![](https://img.shields.io/badge/Code-IDEA-blue) ![](https://img.shields.io/badge/Code-WebStorm-blue)
-#### Preferred language： ![](https://img.shields.io/badge/language-JavaScript-yellow) ![](https://img.shields.io/badge/language-Java-red) ![](https://img.shields.io/badge/language-Kotlin-green) ![](https://img.shields.io/badge/language-Vue-brightgreen) ![](https://img.shields.io/badge/language-C%23-blue)
+#### Preferred language： ![](https://img.shields.io/badge/language-JavaScript-yellow) ![](https://img.shields.io/badge/language-Java-red) ![](https://img.shields.io/badge/language-Kotlin-green) ![](https://img.shields.io/badge/language-Vue-brightgreen)
 
 
 
